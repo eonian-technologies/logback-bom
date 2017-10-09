@@ -32,7 +32,7 @@
 
     <groupId>com.eoniantech.build</groupId>
     <artifactId>logback-bom</artifactId>
-    <version>1.2.3</version>
+    <version>1.2.4-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Logback BOM</name>
     <description>Bill of materials for Logback.</description>
