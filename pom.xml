@@ -34,7 +34,7 @@
     <artifactId>logback-bom</artifactId>
     <version>1.2.4-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>Logback BOM</name>
+    <name>Eonian Logback BOM</name>
     <description>Bill of materials for Logback.</description>
     <url>https://github.com/eonian-technologies/logback-bom</url>
 
