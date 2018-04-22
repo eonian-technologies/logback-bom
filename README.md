@@ -10,7 +10,7 @@ In your parent POM or project POM, add the BOM to the `dependencyManagement` sec
         <dependency>
             <groupId>com.eoniantech.build</groupId>
             <artifactId>logback-bom</artifactId>
-            <version>1.2.3</version>
+            <version>1.3.0-alpha4</version>
             <type>pom</type>
             <scope>import</scope>
         </dependency> 
